@@ -1,0 +1,13 @@
+.card-list {
+  width: 280px;
+}
+@media only screen and (min-width: 601px) {
+  .card-list {
+    width: 870px;
+  }
+}
+@media only screen and (min-width: 993px) {
+  .card-list {
+    width: 1180px;
+  }
+}
